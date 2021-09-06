@@ -1,0 +1,10 @@
+- 👋 Olá, eu sou @angelicaameira
+- 👀 Eu tenho interesse em desenvolvimento iOS
+- 🌱 Atualmente eu estou aprendendo desenvolvimento iOS com Swift e UIKit e publicando o código dos meus aplicativos no GitHub
+- 💞️ Eu estou procurando emprego na área, como júnior ou trainee
+- 📫 Contato: angel-am@hotmail.com
+
+<!---
+angelicaameira/angelicaameira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
