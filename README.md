@@ -4,6 +4,8 @@
 - 💞️ Eu estou procurando emprego na área, como júnior ou trainee
 - 📫 Contato: angel-am@hotmail.com
 
+[![Angelicas's statistics](https://github-readme-stats.vercel.app/api?username=angelicaameira)](https://github.com/angelicaameira)
+
 <!---
 angelicaameira/angelicaameira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
