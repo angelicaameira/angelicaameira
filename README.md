@@ -4,9 +4,9 @@
 - 💞️ Eu estou procurando emprego na área, como júnior ou trainee
 - 📫 Contato: angel-am@hotmail.com
 
-[![Angelicas's statistics](https://github-readme-stats.vercel.app/api?username=angelicaameira)](https://github.com/angelicaameira)
+[![Angelicas's statistics](https://github-readme-stats.vercel.app/api?username=angelicaameira&hide=stars)](https://github.com/angelicaameira)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=angelicaameira)](https://github.com/angelicaameira)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=angelicaameira&layout=compact)](https://github.com/angelicaameira)
 
 [![My project](https://github-readme-stats.vercel.app/api/pin/?username=angelicaameira&repo=EasyDecision)](https://github.com/angelicaameira/EasyDecision)
 
