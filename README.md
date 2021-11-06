@@ -5,7 +5,9 @@
 - 📫 Contato: angel-am@hotmail.com
 
 [![Angelicas's statistics](https://github-readme-stats.vercel.app/api?username=angelicaameira)](https://github.com/angelicaameira)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaameira)](https://github.com/angelicaameira)
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=angelicaameira)](https://github.com/angelicaameira)
+
 [![My project](https://github-readme-stats.vercel.app/api/pin/?username=angelicaameira&repo=EasyDecision)](https://github.com/angelicaameira/EasyDecision)
 
 <!---
