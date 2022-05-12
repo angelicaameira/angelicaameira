@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @angelicaameira
 - 👀 Eu tenho interesse em desenvolvimento iOS
-- 🌱 Atualmente eu estou aprendendo desenvolvimento iOS com Swift e UIKit e publicando o código dos meus aplicativos no GitHub
+- 🌱 Atualmente eu estou praticando desenvolvimento iOS com Swift e UIKit e publicando o código dos meus aplicativos no GitHub
 - 💞️ Eu estou procurando emprego na área, como júnior
 - 📫 Contato: angel-am@hotmail.com
 
