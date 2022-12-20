@@ -1,6 +1,7 @@
 - 👋 Olá, eu sou @angelicaameira
 - 👀 Eu tenho interesse em desenvolvimento iOS
-- 🌱 Atualmente estou desenvolvendo apps para iPhone, iPad, Mac e Apple Watch com Swift, SwiftUI e UIKit, e publicando o código dos meus aplicativos no GitHub. [Baixe meus apps na App Store!](https://apps.apple.com/br/app/date-counter-events-tracker/id6444543840?l=en)
+- 🌱 Atualmente estou desenvolvendo apps para iPhone, iPad, Mac e Apple Watch com Swift, SwiftUI e UIKit, e publicando o código dos meus aplicativos no GitHub.
+- 🍎 [Baixe meus apps na App Store!](https://apps.apple.com/br/app/date-counter-events-tracker/id6444543840?l=en)
 - 💞️ Eu estou procurando emprego na área
 - 👩🏻‍💻 LinkedIn: https://www.linkedin.com/in/angelica-andrade-meira/
 - 📫 Contato: angel-am@hotmail.com
