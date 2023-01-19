@@ -10,8 +10,8 @@
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=angelicaameira&layout=compact)](https://github.com/angelicaameira)
 
-[![Easy Decision](https://github-readme-stats.vercel.app/api/pin/?username=angelicaameira&repo=DateCounter)](https://github.com/angelicaameira/EasyDecision)
-[![Date Counter](https://github-readme-stats.vercel.app/api/pin/?username=angelicaameira&repo=EasyDecision)](https://github.com/angelicaameira/DateCounter)
+[![Date Counter](https://github-readme-stats.vercel.app/api/pin/?username=angelicaameira&repo=DateCounter)](https://github.com/angelicaameira/DateCounter)
+[![Easy Decision](https://github-readme-stats.vercel.app/api/pin/?username=angelicaameira&repo=EasyDecision)](https://github.com/angelicaameira/EasyDecision)
 
 <!---
 angelicaameira/angelicaameira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
